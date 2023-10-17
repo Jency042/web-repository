@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[63820],{63820:function(t,o,s){s.r(o),s.d(o,{default:function(){return n}});var e=s(68327),a=s(85893),n=function(t){return(0,e.default)({rank:t.id,type:"footerslot"}),(0,a.jsx)("div",{id:"footerslot_".concat(t.id),className:"body_ads_shimmer footer-ad-slot-india ".concat(t.customClass||"")})}}}]);
